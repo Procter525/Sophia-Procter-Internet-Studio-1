@@ -17,6 +17,9 @@ th, td {
 	border-collapse: collapse;
 }
 
+.list {
+	text-align: center !important;
+}
 
 
 
