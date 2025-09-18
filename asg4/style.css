@@ -8,6 +8,7 @@ body {
 	background: #727272;
 	border: 1px solid black;
 	border-collapse: collapse;
+	width: 50%;
 	text-align: center
 }
 
@@ -15,6 +16,7 @@ th, td {
 	border: 1px solid black;
 	border-collapse: collapse;
 }
+
 
 
 
