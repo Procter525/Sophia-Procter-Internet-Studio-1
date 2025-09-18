@@ -8,8 +8,11 @@ body {
 	background: #727272;
 	border: 1px solid black;
 	border-collapse: collapse;
+	border-style: solid;
 	width: 50%;
-	text-align: center
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 th, td {
@@ -20,6 +23,7 @@ th, td {
 .list {
 	text-align: center !important;
 }
+
 
 
 
