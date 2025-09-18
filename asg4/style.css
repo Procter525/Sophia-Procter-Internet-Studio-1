@@ -1,7 +1,7 @@
 body {
 	background: #8d8d8d;
 	font-family: "DM Serif Display", serif;
-	text-align: center;
+	text-align: center !important;
 }
 
 
@@ -10,6 +10,7 @@ body {
 .table {
 	background: #727272;
 }
+
 
 
 
