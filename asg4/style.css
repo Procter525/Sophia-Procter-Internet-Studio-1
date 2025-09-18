@@ -1,5 +1,8 @@
 body {
-	background: #141E30;
+	background: #ff6262;
+	background: linear-gradient(-45deg, #35577D, #141E30);
+	font-family: "DM Serif Display", serif;
+	text-align: center;
 }
 
 
@@ -8,3 +11,4 @@ body {
 h1, h2, h3 {
 	font-family: "DM Serif Display", serif;
 }
+
