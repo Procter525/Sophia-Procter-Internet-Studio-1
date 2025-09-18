@@ -1,5 +1,5 @@
 body {
-	background: #ff6262;
+	background: #ffd68f;
 	font-family: "DM Serif Display", serif;
 	text-align: center;
 }
@@ -7,8 +7,9 @@ body {
 
 
 
-h1, h2, h3 {
-	font-family: "DM Serif Display", serif;
+.table {
+	background: #727272;
 }
+
 
 
