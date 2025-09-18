@@ -23,7 +23,10 @@ th, td {
 .list {
 	text-align: center !important;
 	list-style-position: inside;
+	margin-left: auto;
+	margin-right: auto;
 }
+
 
 
 
