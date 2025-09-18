@@ -6,9 +6,11 @@ body {
 
 .table {
 	background: #727272;
-	width: 100%;
+	border: 1px solid black;
+	border-collapse: collapse;
 	text-align: center
 }
+
 
 
 
