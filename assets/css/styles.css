@@ -6,6 +6,8 @@ body {
   	font-style: normal;
 	color: rgb(255,255,255);
 	text-align: center !important;
+	padding: 0 20px 20px 20px;
+	margin: 0;
 }
 
 h1, h2, h3 {
