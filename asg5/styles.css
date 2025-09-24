@@ -40,7 +40,7 @@ h1, h2, h3 {
       font-style: normal;
 }
 
-article {
+.info {
       border: 2px solid rgb(11,187,208)
       background-color: rgb(11,187,208);
       margin-top: 25px;
@@ -52,7 +52,6 @@ ul {
       text-align: center !important;
       width: 300px;
 }
-
 
 
 
