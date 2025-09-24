@@ -25,4 +25,5 @@ ul {
 
 h1 {
 	border-bottom: 2px solid rgb(127,97,255)
+	border radius: 0 0 10px 10px;
 }
