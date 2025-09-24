@@ -40,7 +40,7 @@ h1, h2, h3 {
 
 article {
       border: 2px solid rgb(0,0,0)
-      background-color: #0bbbd0;
+      background-color: rgb(11,187,208);
       margin-top: 25px;
       margin-bottom: 25px;
       padding: 20px;
@@ -48,10 +48,6 @@ article {
       margin: 0 auto;
 }
 
-#images {
-      margin: 50px;
-      padding: 50px;
-}
 
 
 
