@@ -8,6 +8,11 @@ body {
 	text-align: center !important;
 	max-width: 800px;
 	margin: 0 auto;
+	border: 2px soild rgb(127,97,255);
+	background-color: #3f1adf;
+	margin-top: 25px;
+	margin-bottom: 25px;
+	padding: 20px;
 }
 
 h1, h2, h3 {
@@ -25,5 +30,4 @@ ul {
 
 h1 {
 	border-bottom: 2px solid rgb(127,97,255)
-	border-width: 30px;
 }
