@@ -49,6 +49,7 @@ article {
 }
 
 ul {
+      text-align: center !important;
       width: 300px;
 }
 
