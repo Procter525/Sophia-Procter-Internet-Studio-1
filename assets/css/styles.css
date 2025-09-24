@@ -4,7 +4,7 @@ body {
   	font-family: "Tagesschrift", system-ui;
   	font-weight: 400;
   	font-style: normal;
-	color: rgb(161,161,161);
+	color: rgb(0,0,0);
 	text-align: center !important;
 	max-width: 800px;
 	margin: 0 auto;
@@ -15,6 +15,7 @@ h1, h2, h3 {
   	font-weight: 400;
 	font-style: normal;
 	font-weight: bold;
+	color: #
 }
 
 ul {
