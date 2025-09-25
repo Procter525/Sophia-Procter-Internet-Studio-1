@@ -55,6 +55,8 @@ article {
 ul {
       text-align: center !important;
       width: 300px;
+      margin-left: auto;
+      margin-right: auto;
 }
 
 p, li {
