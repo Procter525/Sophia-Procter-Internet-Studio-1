@@ -43,7 +43,7 @@ h1, h2, h3 {
       color: #d15050
 }
 
-.info {
+article {
       border: 2px solid rgb(11,187,208)
       background-color: rgb(11,187,208);
       margin-top: 25px;
