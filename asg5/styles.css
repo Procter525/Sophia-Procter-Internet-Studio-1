@@ -25,7 +25,7 @@
  Insert all your glorious CSS styles below! */
 body {
       background-color: #d15050;
-      background-image: url(images/r5d4.png)
+      background-image: url(images/r5d4.png);
       background-repeat: repeat;
       font-family: "Orbitron", sans-serif;
       font-optical-sizing: auto;
