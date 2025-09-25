@@ -25,8 +25,8 @@
  Insert all your glorious CSS styles below! */
 body {
       background-color: #d15050;
-      background-image: url(images/r5d4.png);
-      background-repeat: repeat-y;
+      background-image: url(images/new-r5.png);
+      background-repeat: repeat;
       font-family: "Orbitron", sans-serif;
       font-optical-sizing: auto;
       font-weight: <weight>;
@@ -40,6 +40,7 @@ h1, h2, h3 {
       font-family: "Zen Dots", sans-serif;
       font-weight: 400;
       font-style: normal;
+      color: #
 }
 
 .info {
