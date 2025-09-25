@@ -44,7 +44,7 @@ h1, h2, h3 {
 }
 
 article {
-      border: 2px solid rgb(11,187,208)
+      border: 2px solid rgb(11,187,208);
       background-color: rgb(11,187,208);
       margin-top: 25px;
       margin-bottom: 25px;
