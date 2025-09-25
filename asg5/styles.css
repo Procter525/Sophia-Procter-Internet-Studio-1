@@ -26,7 +26,7 @@
 body {
       background-color: #d15050;
       background-image: url(images/r5d4.png);
-      background-repeat: repeat;
+      background-repeat: repeat-y;
       font-family: "Orbitron", sans-serif;
       font-optical-sizing: auto;
       font-weight: <weight>;
