@@ -25,8 +25,12 @@
  Insert all your glorious CSS styles below! */
 h1, h2, h3 {
       font-family: "Iceberg", Arial, sans-serif;
+      font-weight: 400;
+      font-style: normal;
 }
 
 body {
       font-family: "Homenaje", Arial, sans-serif;
+      font-weight: 400;
+      font-style: normal;
 }
