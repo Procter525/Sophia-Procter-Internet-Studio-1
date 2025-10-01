@@ -23,3 +23,10 @@
        
 
  Insert all your glorious CSS styles below! */
+h1, h2, h3 {
+      font-family: "Iceberg", Arial, sans-serif;
+}
+
+body {
+      font-family: "Homenaje", Arial, sans-serif;
+}
