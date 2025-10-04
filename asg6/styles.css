@@ -35,6 +35,8 @@ body {
       font-style: normal;
       background-color: #7e858b;
       text-align: center;
+      max-width: 800px;
+      margin: 0 auto;
 }
 
 article {
