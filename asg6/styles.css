@@ -29,6 +29,7 @@ h1, h2, h3 {
       font-style: normal;
 }
 
+/*I love center adjusting the words, but I was really wanting some of teh words to veer leftwards while the rest stayed in the center. I think it looks a little neater this way.*/
 body {
       font-family: "Homenaje", Arial, sans-serif;
       font-weight: 400;
@@ -50,6 +51,7 @@ article {
       padding: 20px;
 }
 
+/*I wanted to go with an off-black ish approach because I definetly wanted to allow the words to be shown but also I didn't want them plain black, hence the dark brown and dark grey.*/
 h1 {
       font-size: 80px;
       color: #1e1709;
