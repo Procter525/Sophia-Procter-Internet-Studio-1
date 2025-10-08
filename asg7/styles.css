@@ -51,7 +51,7 @@ p, ul {
 }
 
 body {
-      background-color: #000000;
+      background-color: #999c67;
       margin: 0 auto;
 }
 
@@ -67,9 +67,9 @@ article {
 aside {
       background-color: #a8b29b;
       border: 3px solid rgb(132,132,132);
-      width: 35%;
+      width: 30%;
       float: right;
-      margin: 10px;
+      margin: 5px;
       padding: 10px;
       font-size: 15px;
 }
