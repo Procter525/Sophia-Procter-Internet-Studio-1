@@ -45,7 +45,7 @@
 /*I think it makes the most sense to have the group, then if they need to be separated, put the individual tags right under the group that contains all of them.*/
 h1, h2, h3 {
       font-family: 'Zen Antique Soft';
-      color: #ca4300;
+      color: #a30050;
 }
 
 h1 {
@@ -63,7 +63,7 @@ h3 {
 p, ul {
       font-family: 'Zen Old Mincho';
       font-size: 30px;
-      color: #ff6f28;
+      color: #ca4300;
 }
 
 p {
