@@ -50,6 +50,20 @@ p, ul {
       font-family: 'Darker Grotesque';
 }
 
+body {
+      background-color: #000000;
+}
+
+article {
+      background-color: #ffffff;
+      max-width: 760px;
+      margin: 0 auto;
+}
+
+aside {
+      
+}
+
 
 
 
