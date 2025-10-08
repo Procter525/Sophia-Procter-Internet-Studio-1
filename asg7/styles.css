@@ -52,13 +52,15 @@ p, ul {
 
 body {
       background-color: #000000;
+      margin: 0 auto;
 }
 
 article {
       background-color: #ffffff;
       border: 3px solid rgb(132,132,132);
       max-width: 1000px;
-      margin: 10px;
+      margin: 0 auto;
+      padding: 10px;
       text-align: left;
 }
 
