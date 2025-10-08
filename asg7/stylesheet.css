@@ -82,6 +82,8 @@ article {
 
 body {
       background-color: #a30050;
+      background-image: url(images/dark-pink.jpg);
+      background-repeat: repeat;
 }
 
 
