@@ -83,7 +83,17 @@ h1 {
       text-align: center;
 }
 
+.header img {
+  float: right;
+  width: 100px;
+  height: 100px;
+}
 
+.header h3 {
+  position: relative;
+  top: 18px;
+  left: 10px;
+}
 
 
 
