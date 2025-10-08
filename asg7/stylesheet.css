@@ -50,6 +50,14 @@ p, ul {
       font-family: 'Zen Old Mincho';
 }
 
+article {
+      background-color: #ffffff;
+      border: 3px solid rgb(132,132,132);
+      max-width: 1500px;
+      margin: 0 auto;
+      padding: 10px;
+      text-align: left;
+}
 
 
 
