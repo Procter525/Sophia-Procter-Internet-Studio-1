@@ -63,6 +63,10 @@ p, ul {
       font-size: 30px;
 }
 
+p {
+      line-height: 1.5;
+}
+
 article {
       background-color: #ffffff;
       border: 3px solid rgb(132,132,132);
