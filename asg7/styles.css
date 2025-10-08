@@ -57,8 +57,8 @@ body {
 article {
       background-color: #ffffff;
       border: 3px solid rgb(132,132,132);
-      max-width: 760px;
-      margin: 0 auto;
+      max-width: 1000px;
+      margin: 10px;
       text-align: left;
 }
 
