@@ -23,3 +23,54 @@
        
 
  Insert all your glorious CSS styles below! */
+
+/* zen-antique-soft-regular - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Zen Antique Soft';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/zen-antique-soft-v14-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+/* zen-old-mincho-regular - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Zen Old Mincho';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/zen-old-mincho-v13-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+h1, h2, h3 {
+      font-family: 'Zen Antique Soft';
+}
+
+p, ul {
+      font-family: 'Zen Old Mincho';
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
