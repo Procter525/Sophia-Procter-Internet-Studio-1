@@ -46,8 +46,21 @@ h1, h2, h3 {
       font-family: 'Zen Antique Soft';
 }
 
+h1 {
+      font-size: 70px;
+}
+
+h2 {
+      font-size: 55px
+}
+
+h3 {
+      font-size: 45px;
+}
+
 p, ul {
       font-family: 'Zen Old Mincho';
+      font-size: 30px;
 }
 
 article {
