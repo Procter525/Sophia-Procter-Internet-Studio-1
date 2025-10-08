@@ -69,8 +69,8 @@ aside {
       border: 3px solid rgb(132,132,132);
       width: 30%;
       float: right;
-      margin: 5px;
-      padding: 10px;
+      margin: 0 auto;
+      padding: 5px;
       font-size: 15px;
 }
 
