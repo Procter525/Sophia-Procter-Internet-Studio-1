@@ -86,7 +86,10 @@ body {
       background-repeat: repeat;
 }
 
-
+.image {
+      margin-left: auto;
+      margin-right: auto;
+}
 
 
 
