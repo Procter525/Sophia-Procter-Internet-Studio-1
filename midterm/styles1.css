@@ -24,9 +24,15 @@
 
  Insert all your glorious CSS styles below! */
 
+body {
+      background-color: #719b6c;
+      margin: 0 auto;
+}
+
 header {
       background-color: #1c221b;
       border-bottom: 3px solid #1c221b;
+      color: #ffffff;
       position: fixed;
       width: 100%;
       z-index: 10;
