@@ -83,11 +83,13 @@ h1, h2, h3 {
 }
 
 h1 {
-      padding-top: 100px;
+      padding-top: 50px;
+      font-size: 80px;
 }
 
 p {
       font-family: 'East Sea Dokdo', sans-serif;
+      font-size: 35px;
 }
 
 
