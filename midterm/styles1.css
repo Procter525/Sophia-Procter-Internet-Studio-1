@@ -51,7 +51,7 @@ header {
       background-color: #131713;
       border-bottom: 3px solid #131713;
       font-family: 'Bilbo', sans-serif;
-      font-size: 100px;
+      font-size: 40px;
       color: #ffffff;
       position: fixed;
       width: 100%;
@@ -66,7 +66,7 @@ ul {
 }
 
 li {
-      font-size: 16px;
+      font-size: 30px;
       font-weight: 300;
       text-transform: uppercase;
       display: inline-block;
