@@ -48,10 +48,10 @@ body {
 }
 
 header {
-      background-color: #1c221b;
-      border-bottom: 3px solid #1c221b;
+      background-color: #131713;
+      border-bottom: 3px solid #131713;
       font-family: 'Bilbo', sans-serif;
-      font-size: 40px;
+      font-size: 100px;
       color: #ffffff;
       position: fixed;
       width: 100%;
