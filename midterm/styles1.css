@@ -59,7 +59,7 @@ header {
       word-spacing: 20px;
 }
 
-ul {
+ul.left {
       margin: 30px auto;
       padding: 0 20px;
       text-align: left;
