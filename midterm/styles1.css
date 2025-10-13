@@ -83,7 +83,6 @@ li {
 a {
       text-decoration: none;
       color: #ffffff;
-      font-size: 35px;
 }
 
 h1, h2, h3 {
@@ -93,6 +92,10 @@ h1, h2, h3 {
 h1 {
       padding-top: 50px;
       font-size: 80px;
+}
+
+h3 {
+      font-size: 45px
 }
 
 p {
@@ -112,17 +115,19 @@ footer {
       position: relative;
       text-align: center;
       width: 100%;
+      color: #ffffff;
 }
 
 .buttons a {
         background: #719b6c;
         border: 1px solid white;
         border-radius: 3px;
-        color: white;
+        color: #131713;
         display: inline-block;
         margin: 10px;
         padding: 14px;
         text-decoration: none;
+      font-size: 35px;
 }
 
 .buttons a:hover {
