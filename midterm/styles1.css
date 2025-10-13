@@ -45,7 +45,6 @@
 body {
       background-color: #719b6c;
       margin: 0 auto;
-      font-family: 'East Sea Dokdo', sans-serif;
       
 }
 
@@ -102,10 +101,11 @@ p {
 
 footer {
       align: center;
+      font-family: 'East Sea Dokdo', sans-serif;
 }
 
 .buttons {
-      border: 1px solid LightGrey;
+      border: 1px solid white;
       padding: 40px 0px;
       position: relative;
       text-align: center;
@@ -113,8 +113,8 @@ footer {
 }
 
 .buttons a {
-        background: red;
-        border: 1px solid red;
+        background: #131713;
+        border: 1px solid white;
         border-radius: 3px;
         color: white;
         display: inline-block;
