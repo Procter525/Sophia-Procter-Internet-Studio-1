@@ -104,7 +104,7 @@ footer {
       align: center;
 }
 
-.share {
+.buttons {
       border: 1px solid LightGrey;
       padding: 40px 0px;
       position: relative;
@@ -112,7 +112,7 @@ footer {
       width: 100%;
 }
 
-.share a {
+.buttons a {
         background: red;
         border: 1px solid red;
         border-radius: 3px;
@@ -123,7 +123,7 @@ footer {
         text-decoration: none;
 }
 
-.share a:hover {
+.buttons a:hover {
   background: white;
   border: 1px solid red;
   color: red;
