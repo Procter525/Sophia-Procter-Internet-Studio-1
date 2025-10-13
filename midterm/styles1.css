@@ -82,6 +82,10 @@ h1, h2, h3 {
       font-family: 'Bilbo', sans-serif;
 }
 
+h1 {
+      padding-top: 100px;
+}
+
 p {
       font-family: 'East Sea Dokdo', sans-serif;
 }
