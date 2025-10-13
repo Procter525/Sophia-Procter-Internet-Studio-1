@@ -45,6 +45,7 @@
 body {
       background-color: #719b6c;
       margin: 0 auto;
+      font-family: 'East Sea Dokdo', sans-serif;
 }
 
 header {
@@ -82,7 +83,7 @@ h1, h2, h3 {
 }
 
 p {
-      font-family: 'East Sea Dokdo';
+      font-family: 'East Sea Dokdo', sans-serif;
 }
 
 
