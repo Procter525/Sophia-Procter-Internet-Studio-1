@@ -30,7 +30,7 @@
   font-family: 'East Sea Dokdo';
   font-style: normal;
   font-weight: 400;
-  src: url('../fonts/east-sea-dokdo-v26-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+  src: url('./fonts/east-sea-dokdo-v26-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 
 /* bilbo-regular - latin */
@@ -39,7 +39,7 @@
   font-family: 'Bilbo';
   font-style: normal;
   font-weight: 400;
-  src: url('../fonts/bilbo-v21-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+  src: url('./fonts/bilbo-v21-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 
 body {
