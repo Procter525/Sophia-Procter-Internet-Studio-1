@@ -53,10 +53,10 @@ header {
       border-bottom: 3px solid #0a0b0a;
       font-family: 'Bilbo', sans-serif;
       color: #ffffff;
-      position: fixed;
+      position: relative;
       width: 100%;
       z-index: 10;
-      word-spacing: normal;
+      word-spacing: 15px;
 }
 
 ul {
