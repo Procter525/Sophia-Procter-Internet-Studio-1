@@ -100,6 +100,10 @@ p {
       font-size: 35px;
 }
 
+footer {
+      align: center;
+}
+
 .share {
       border: 1px solid LightGrey;
       padding: 40px 0px;
