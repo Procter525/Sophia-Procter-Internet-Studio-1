@@ -86,7 +86,7 @@ a {
 }
 
 h1, h2, h3 {
-      font-family: 'Bilbo', sans-serif;
+      font-family: 'Bilbo', sans-serif !important;
 }
 
 h1 {
