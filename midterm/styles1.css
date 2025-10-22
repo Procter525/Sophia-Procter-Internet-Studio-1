@@ -149,7 +149,11 @@ nav ul {
       gap: 20px;
 }
 
-
+nav ul li {
+      background-color: dodgerblue;
+      padding: 5px;
+      border-radius: 5px;
+}
 
 
 
