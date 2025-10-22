@@ -63,7 +63,7 @@ header {
       position: fixed;
       width: 100%;
       z-index: 10;
-      word-spacing: 30px;
+      word-spacing: 40px;
 }
 
 header ul {
@@ -71,7 +71,7 @@ header ul {
       display: flex;
       justify-content: center;
       flex-direction: row;
-      gap: 30px;
+      gap: 40px;
 }
 
 header ul li {
