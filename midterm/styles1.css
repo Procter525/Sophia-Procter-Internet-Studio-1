@@ -66,6 +66,21 @@ header {
       word-spacing: 20px;
 }
 
+header ul {
+      list-style: none;
+      display: flex;
+      justify-content: center;
+      flex-direction: row;
+      gap: 20px;
+}
+
+header ul li {
+      background-color: dodgerblue;
+      padding: 5px;
+      border-radius: 5px;
+}
+
+/*
 ul {
       margin: 30px auto;
       padding: 0 20px;
@@ -79,6 +94,7 @@ li {
       display: inline-block;
       width: 120px;
 }
+*/
 
 a {
       text-decoration: none;
@@ -139,20 +155,6 @@ footer {
         background: white;
         border: 1px solid #131713;
         color: #131713;
-}
-
-nav ul {
-      list-style: none;
-      display: flex;
-      justify-content: center;
-      flex-direction: row;
-      gap: 20px;
-}
-
-nav ul li {
-      background-color: dodgerblue;
-      padding: 5px;
-      border-radius: 5px;
 }
 
 
