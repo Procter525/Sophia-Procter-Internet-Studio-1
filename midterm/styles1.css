@@ -99,7 +99,7 @@ h3 {
 }
 
 h6 {
-      font-size: 18px;
+      font-size: 24px;
       line-height: 0.5;
 }
 
@@ -141,7 +141,10 @@ footer {
         color: #131713;
 }
 
-
+nav ul {
+      list-style: none;
+      display: flex;
+}
 
 
 
