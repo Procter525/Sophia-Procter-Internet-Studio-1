@@ -155,3 +155,20 @@ footer {
         color: #131713;
 }
 
+aside {
+      background-color: #a8b29b;
+      border: 3px solid rgb(132,132,132);
+      width: 30%;
+      float: right;
+      margin: 5px;
+      padding: 5px;
+      font-size: 15px;
+}
+
+
+
+
+
+
+
+
