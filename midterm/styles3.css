@@ -153,4 +153,5 @@ footer {
         background: white;
         border: 1px solid #131713;
         color: #131713;
+      transform: scale(1.5);
 }
