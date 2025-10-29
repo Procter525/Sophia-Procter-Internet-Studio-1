@@ -153,16 +153,17 @@ footer {
         background: white;
         border: 1px solid #131713;
         color: #131713;
+      transform: scale(1.5);
 }
 
 aside {
       background-color: #a8b29b;
       border: 3px solid rgb(132,132,132);
+      height: 150px;
       width: 30%;
       float: right;
       margin: 5px;
       padding: 5px;
-      font-size: 15px;
 }
 
 
