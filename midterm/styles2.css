@@ -166,13 +166,21 @@ aside {
       background-color: rgba(28,34,28,.5);
       border: 3px solid rgb(19,23,19);
       width: 40%;
-      float: right;
       margin: 5px;
       padding: 5px;
 }
 
+.shipyard {
+      float: right;
+}
 
+.cove {
+      float: left;
+}
 
+.dragons {
+      float: right;
+}
 
 
 
