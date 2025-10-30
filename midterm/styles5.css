@@ -103,6 +103,9 @@ h1, h2, h3, h6 {
       font-family: 'Bilbo', sans-serif !important;
 }
 
+h1, h3 {
+      text-shadow: 2px 2px 2px #ffffff;
+
 h1 {
       padding-top: 50px;
       font-size: 80px;
