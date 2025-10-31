@@ -159,3 +159,7 @@ footer {
       color: #131713;
       transform: scale(1.5);
 }
+
+form hr {
+      width: 20%;
+}
