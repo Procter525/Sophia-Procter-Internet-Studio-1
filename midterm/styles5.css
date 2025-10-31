@@ -160,8 +160,9 @@ footer {
       transform: scale(1.5);
 }
 
-form {
+section {
       font-family: 'East Sea Dokdo', sans-serif;
+      font-size: 30px;
 }
 
 form hr {
