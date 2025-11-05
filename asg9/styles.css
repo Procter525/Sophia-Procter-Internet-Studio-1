@@ -97,6 +97,10 @@ h1, h3 {
     flex-flow: column;
 }
 
+.boxes div.grim {
+      flex: 2;
+}
+
 
 
 
