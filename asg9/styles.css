@@ -87,7 +87,7 @@ h1, h3 {
     flex-flow: row wrap;
 }
 
-.boxes div, .grim {
+.boxes div, div.grim {
     flex: 1 1 250px;
     margin: 10px;
     border-radius: 5px;
