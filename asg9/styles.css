@@ -70,12 +70,12 @@ h1, h2, h3, h4, h5 {
 }
 
 h1 {
-      font-size: 80px;
+      font-size: 3.05em;
       align: center;
 }
 
 h3 {
-      font-size: 45px;
+      font-size: 1.95em;
 }
 
 h1, h3 {
