@@ -23,3 +23,22 @@
        
 
  Insert all your glorious CSS styles below! */
+
+/* alike-regular - latin  (headers)*/
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Alike';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/alike-v22-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+/* actor-regular - latin (normal words) */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Actor';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/actor-v18-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
