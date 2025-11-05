@@ -42,3 +42,26 @@
   src: url('../fonts/actor-v18-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 
+article {
+  background-color: #7d5a9d;
+  max-width: 760px;
+  margin: 0 auto;
+  margin-top: 25px;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
