@@ -109,7 +109,7 @@ a {
 
 .grid {
       border: 2px black solid;
-      width: 920px;
+      width: 75%;
       display: grid;
 }
 
