@@ -122,7 +122,10 @@ a {
       gap: 10px 15px;
 }
 
-
+.box {
+  border-radius: 5px;
+  border: 2px black solid;
+}
 
 
 
