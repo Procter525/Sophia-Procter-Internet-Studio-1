@@ -124,6 +124,7 @@ a {
 
 .box {
       margin: 0 auto;
+      align: center !important;
   border-radius: 5px;
   border: 2px black solid;
 }
