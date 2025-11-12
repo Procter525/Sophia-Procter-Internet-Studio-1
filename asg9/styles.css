@@ -42,6 +42,8 @@
   src: url('../fonts/actor-v18-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 
+/*Initially my fonts didn't work so I took a closer look and apparently I was missing the ../ portion on the url.*/
+
 article {
   background-color: #7d5a9d;
   max-width: 760px;
