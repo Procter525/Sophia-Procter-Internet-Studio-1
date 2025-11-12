@@ -114,7 +114,6 @@ a {
 }
 
 .grid {
-      border: 2px black solid;
       margin: 0 auto;
       width: 83%;
       display: grid;
