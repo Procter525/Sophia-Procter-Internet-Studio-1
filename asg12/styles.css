@@ -123,6 +123,7 @@ a {
 }
 
 .box {
+      margin: 0 auto;
   border-radius: 5px;
   border: 2px black solid;
 }
