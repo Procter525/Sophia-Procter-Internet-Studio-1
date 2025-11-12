@@ -115,7 +115,7 @@ a {
 
 .grid {
       margin: 0 auto;
-      width: 83%;
+      width: 85%;
       display: grid;
       grid-template-columns: 25% 25% 2fr 1fr;
       grid-template-rows: 650px 650px;
