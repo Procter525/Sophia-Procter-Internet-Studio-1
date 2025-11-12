@@ -90,13 +90,35 @@ h2 {
   font-size: 60px;
 }
 
+h4 {
+      font-size: 40px;
+}
+
 p, ul {
   font-family: 'Amethysta';
 }
 
 p, li {
-  font-size: 35px;
+  font-size: 20px;
 }
+
+.grid {
+      border: 2px blue solid;
+      width: 920px;
+      display: grid;
+}
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 /*
