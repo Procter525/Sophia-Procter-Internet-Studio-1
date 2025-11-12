@@ -103,7 +103,7 @@ p, li {
 }
 
 .grid {
-      border: 2px blue solid;
+      border: 2px black solid;
       width: 920px;
       display: grid;
 }
