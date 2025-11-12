@@ -112,6 +112,9 @@ a {
       align: center;
       width: 80%;
       display: grid;
+      grid-template-columns: 25% 25% 2fr 1fr;
+      grid-template-rows: 500px 500px;
+      gap: 10px 15px;
 }
 
 
