@@ -61,13 +61,13 @@
 }
 
 body {
-  background-color: #123123;
+  background-color: #3a3d87;
   padding: 0 20px 20px 20px;
   margin: 0;
 }
 
 article {
-  background-color: #ababab;
+  background-color: rgba(100,100,109,.5);
   max-width: 850px;
   margin: 0 auto;
   padding: 10px;
@@ -76,6 +76,10 @@ article {
 
 h1, h2, h3 {
   font-family: 'Almendra Display';
+}
+
+h1, h2 {
+      text-align: center;
 }
 
 h1 {
