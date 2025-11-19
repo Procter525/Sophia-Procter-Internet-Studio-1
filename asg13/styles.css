@@ -84,10 +84,10 @@ li {
 
 .grid {
 	margin: 0 auto;
-    width: 85%;
+    width: 95%;
     display: grid;
 	grid-template-columns: 25% 25% 2fr 1fr;
-    grid-template-rows: 650px 650px;
+    grid-template-rows: 750px 750px;
     gap: 10px 15px;
 }
 
