@@ -37,6 +37,7 @@ h1, h2, h3, h4 {
 	color: #ffffff;
 }
 
+/*I love having the font with more little bits of teh letters sticking out to be my titles and headers because they just look more catchy and flashy.*/
 p, li {
 	font-family: 'Afacad Flux';
 	color: #ffffff;
@@ -45,12 +46,7 @@ p, li {
 h1 {
 	font-size: 70px;
 	text-align: center;
-    text-shadow: 2px 2px 2px #000000;
-}
-
-h2 {
-
-	
+    text-shadow: 3px 3px 3px #000000;
 }
 
 h3 {
@@ -67,21 +63,7 @@ a {
     color: #ffffff;
 }
 
-ol {
-
-
-}
-
-ul {
-
-
-}
-
-li {
-
-	
-}
-
+/*I finally figured out the grid columns by making them horizontal on accident.*/
 .grid {
 	margin: 0 auto;
     width: 95%;
