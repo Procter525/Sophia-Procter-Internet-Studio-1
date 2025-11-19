@@ -1,11 +1,34 @@
 /* Some selectors to get you started */
+/* afacad-flux-regular - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Afacad Flux';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/afacad-flux-v4-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+/* oldenburg-regular - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Oldenburg';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/oldenburg-v24-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
 
 body {
 
 
 }
 
+h1, h2, h3, h4 {
+	font-family: 'Oldenburg';
+}
 
+p, li {
+	font-family: 'Afacad Flux';
+}
 
 h1 {
 
