@@ -45,7 +45,7 @@ p, li {
 h1 {
 	font-size: 70px;
 	text-align: center;
-    text-shadow: 1px 1px 2px #000000;
+    text-shadow: 2px 2px 2px #445e89;
 }
 
 h2 {
@@ -64,7 +64,7 @@ p {
 
 a {
 	text-decoration: underline;
-    color: #000000;
+    color: #ffffff;
 }
 
 ol {
@@ -94,7 +94,7 @@ li {
 .box {
 	margin: 0 auto;
 	border-radius: 5px;
-	border: 2px black solid;
+	border: 2px white solid;
 }
 
 
