@@ -80,7 +80,20 @@ li {
 	
 }
 
+.grid {
+	margin: 0 auto;
+    width: 85%;
+    display: grid;
+	grid-template-columns: 25% 25% 2fr 1fr;
+    grid-template-rows: 650px 650px;
+    gap: 10px 15px;
+}
 
+.box {
+	margin: 0 auto;
+	border-radius: 5px;
+	border: 2px black solid;
+}
 
 
 
