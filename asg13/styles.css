@@ -18,8 +18,18 @@
 }
 
 body {
+	background-image: url(images/bg.jpg);
+    background-repeat: repeat;
+  	padding: 0 20px 20px 20px;
+ 	margin: 0;
+}
 
-
+article {
+	background-color: rgba(106,106,140,.85);
+  	max-width: 90%;
+ 	margin: 0 auto;
+  	padding: 10px;
+  	border-radius: 10px;
 }
 
 h1, h2, h3, h4 {
@@ -31,8 +41,9 @@ p, li {
 }
 
 h1 {
-
-
+	font-size: 70px;
+	text-align: center;
+    text-shadow: 1px 1px 2px #ffffff;
 }
 
 h2 {
@@ -41,19 +52,17 @@ h2 {
 }
 
 h3 {
-
-	
+	font-size: 45px;	
 }
 
 
 p {
-
-
+	font-size: 25px;
 }
 
 a {
-
-
+	text-decoration: underline;
+    color: #000000;
 }
 
 ol {
